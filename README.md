@@ -1,6 +1,7 @@
 # tri-tailor-shop
 
 This is a demo of a tailor shop in a 2D simulation game world. The demo is an 96-hour interview test from a game studio. 
+You can check the game in "ReadyToPlay.zip", just decompress it and run .exe file
 
 ## Controls
 - AWSD or Arrow Keys : move character around
