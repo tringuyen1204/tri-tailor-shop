@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:6a7b7883a0502d075fa1708f1410a0e0:8760d278c31dc44e19aef45765e79006:1e2b3ddcd4e71565e15c7044017fec27$
+#
+:format=40300
+:texture=ItemIcons.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+IcnCotton;1;895;128;128; 0.5;0.5; 0;0;0;0
+IcnFur;131;895;128;128; 0.5;0.5; 0;0;0;0
+IcnLeather;261;895;128;128; 0.5;0.5; 0;0;0;0
+IcnSilk;1;765;128;128; 0.5;0.5; 0;0;0;0
+icon_0000_RobinCap;1;505;128;128; 0.5;0.5; 0;0;0;0
+icon_0001_HelmetSamurai;131;505;128;128; 0.5;0.5; 0;0;0;0
+icon_0002_HelmetHalf;261;505;128;128; 0.5;0.5; 0;0;0;0
+icon_0003_Helmet;1;375;128;128; 0.5;0.5; 0;0;0;0
+icon_0004_FullHelmet;1;245;128;128; 0.5;0.5; 0;0;0;0
+icon_0005_TemplarHelmet;1;115;128;128; 0.5;0.5; 0;0;0;0
+icon_0006_FurCap;131;375;128;128; 0.5;0.5; 0;0;0;0
+Icon_0007_BodyTemplarBlue;131;765;128;128; 0.5;0.5; 0;0;0;0
+Icon_0008_BodyTemplar;261;765;128;128; 0.5;0.5; 0;0;0;0
+Icon_0009_BodyRobin;1;635;128;128; 0.5;0.5; 0;0;0;0
+Icon_0010_BodyFur;131;635;128;128; 0.5;0.5; 0;0;0;0
+Icon_0011_BodyFullPlate;261;635;128;128; 0.5;0.5; 0;0;0;0

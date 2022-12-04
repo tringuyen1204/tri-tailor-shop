@@ -1,0 +1,14 @@
+version: 2
+tpsheetFileNames:
+- Assets/Graphics/Tilesets/Decors.tpsheet
+- Assets/Graphics/UI/ItemIcons.tpsheet
+- Assets/Graphics/UI/UI.tpsheet
+textureFileNames:
+- Assets/Graphics/Tilesets/Decors.png
+- Assets/Graphics/UI/ItemIcons.png
+- Assets/Graphics/UI/UI.png
+normalmapFileNames:
+- 
+- 
+- 
+enableDebugOutput: 0

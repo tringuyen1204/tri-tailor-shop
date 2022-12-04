@@ -1,0 +1,67 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4d83678ee20493e97fca262b6751a7da:55d07fab84955dcc5888094bf5ce819e:64d56465927d50bb5400e4c66dc46a97$
+#
+:format=40300
+:texture=UI.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=enabled
+:alphahandling=ClearTransparentPixels
+
+UI-9ScaleEmptyBar;74;52;48;48; -0.0104167;0.5; 12;12;12;12
+UI-9ScaleGoldBar;391;588;48;48; -0.0104167;0.489583; 12;12;16;28
+UI-9ScaleGoldSmall;464;854;24;24; 0;0.5; 6;6;8;13
+UI-9ScaleUp;74;2;48;48; 0;0.489583; 12;12;14;26
+UI-Arrow-Break;1;17;71;83; 0.5;0.5; 0;0;0;0
+UI-btn_icon_coin_dollar;419;324;64;64; 0.5;0.5; 0;0;0;0
+UI-btn_icon_custume_top;419;258;64;64; 0.5;0.5; 0;0;0;0
+UI-btn_icon_helmet_2;419;192;64;64; 0.5;0.5; 0;0;0;0
+UI-btn_icon_question;419;126;64;64; 0.5;0.5; 0;0;0;0
+UI-BtnClose;353;433;70;70; 0.5;0.5; 0;0;0;0
+UI-Clanmessage;389;805;73;73; 0.5;0.5; 19;18;19;18
+UI-Clanmessagetail;385;638;60;49; 0.5;0.5; 0;0;0;0
+UI-ClanmessagetailNoOutline;385;638;60;49; 0.5;0.5; 0;0;0;0
+UI-common_btn_blue;261;447;90;56; 0.5;0.5; 23;23;14;19
+UI-common_btn_bluegray;261;389;90;56; 0.5;0.5; 23;23;14;17
+UI-common_btn_brown;261;331;90;56; 0.5;0.5; 23;23;14;18
+UI-common_btn_dark;261;273;90;56; 0.5;0.5; 23;23;14;19
+UI-common_btn_disable;261;215;90;56; 0.5;0.5; 23;23;14;19
+UI-common_btn_gray;261;157;90;56; 0.5;0.5; 23;23;14;20
+UI-common_btn_green;261;99;90;56; 0.5;0.5; 23;23;14;18
+UI-common_btn_mint;261;41;90;56; 0.5;0.5; 23;23;14;18
+UI-common_btn_purple;389;747;90;56; 0.5;0.5; 23;23;14;19
+UI-common_btn_red;385;689;90;56; 0.5;0.5; 23;23;14;18
+UI-common_item_book_open;131;42;128;128; 0.5;0.5; 0;0;0;0
+UI-common_item_inventory;261;505;128;128; 0.5;0.5; 0;0;0;0
+UI-common_popup;389;880;98;143; 0.5;0.5; 47;46;49;46
+UI-common_popup_title;1;622;122;143; 0.5;0.5; 31;78;68;53
+UI-FrameCommon;447;623;64;64; 0.5;0.5; 0;0;0;0
+UI-FrameDiamond;353;367;64;64; 0.5;0.5; 0;0;0;0
+UI-FrameEpic;353;301;64;64; 0.5;0.5; 0;0;0;0
+UI-FrameGreat;353;235;64;64; 0.5;0.5; 0;0;0;0
+UI-FrameLegend;353;169;64;64; 0.5;0.5; 0;0;0;0
+UI-FrameRare;353;103;64;64; 0.5;0.5; 0;0;0;0
+UI-Gem Dust;259;895;128;128; 0.5;0.5; 0;0;0;0
+UI-gold;419;60;64;64; 0.5;0.5; 0;0;0;0
+UI-Hexagon_Bronze;125;637;128;128; 0.5;0.5; 0;0;0;0
+UI-Hexagon_Diamond;259;765;128;128; 0.5;0.5; 0;0;0;0
+UI-Hexagon_Golden;1;492;128;128; 0.5;0.5; 0;0;0;0
+UI-Hexagon_Silver;1;362;128;128; 0.5;0.5; 0;0;0;0
+UI-Hole-9scale;353;37;64;64; 0.5;0.5; 0;0;0;0
+UI-HoleFrame-Red;391;522;64;64; 0.5;0.5; 0;0;0;0
+UI-HoleFrame;425;456;64;64; 0.5;0.5; 0;0;0;0
+UI-home_menu_btn_noShadow;206;562;53;71; 0.5;0.5; 13;14;18;18
+UI-IcnCheck;1;232;128;128; 0.5;0.5; 0;0;0;0
+UI-IcnCotton;1;102;128;128; 0.5;0.5; 0;0;0;0
+UI-IcnFur;255;635;128;128; 0.5;0.5; 0;0;0;0
+UI-IcnHammer;425;390;64;64; 0.5;0.5; 0;0;0;0
+UI-IcnLeather;131;432;128;128; 0.5;0.5; 0;0;0;0
+UI-IcnSilk;131;302;128;128; 0.5;0.5; 0;0;0;0
+UI-Lock;131;172;128;128; 0.5;0.5; 0;0;0;0
+UI-RoundRectangleHalf;131;562;73;73; 0.5;0.5; 0;0;0;0
+UI-ShopKeeperAvatar;1;767;256;256; 0.5;0.5; 0;0;0;0

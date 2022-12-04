@@ -1,0 +1,40 @@
+ShopKeeper.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.125
+Back hair
+bounds:77,55,71,67
+rotate:90
+Beard
+bounds:2,53,73,73
+Body
+bounds:81,2,51,46
+rotate:90
+Clothes
+bounds:129,19,64,34
+Coat1
+bounds:146,74,40,52
+Coat2
+bounds:232,57,18,34
+rotate:90
+Face
+bounds:195,19,52,34
+Hat1
+bounds:2,5,77,46
+Hat2
+bounds:188,107,61,19
+Left arm
+bounds:249,27,23,28
+Left haand
+bounds:249,2,23,22
+rotate:90
+Right arm
+bounds:216,77,27,28
+Right hand
+bounds:245,78,25,27
+Right upper hand
+bounds:188,75,26,30
+offsets:0,0,26,31
+Shadow
+bounds:146,55,84,17

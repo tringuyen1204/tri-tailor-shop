@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ee7700eaa704d2fa26caf555d5c46c0, type: 3}
+  m_Name: cloth_attachments
+  m_EditorClassIdentifier: 
+  atlasAsset: {fileID: 11400000, guid: 5429766b1136a4442b0b04a2cbc46cf5, type: 2}
+  scale: 1
+  spineProperties:
+  - id: cloth_default
+    spineAttachmentDefinitions:
+    - slot: Body
+      region: BodyDefault
+  - id: cloth_robin
+    spineAttachmentDefinitions:
+    - slot: Body
+      region: BodyRobin
+  - id: cloth_full_plate
+    spineAttachmentDefinitions:
+    - slot: Body
+      region: BodyFullPlate
+  - id: cloth_fur
+    spineAttachmentDefinitions:
+    - slot: Body
+      region: BodyFur
+  - id: cloth_templar_blue
+    spineAttachmentDefinitions:
+    - slot: Body
+      region: BodyTemplarBlue
+  - id: cloth_templar_red
+    spineAttachmentDefinitions:
+    - slot: Body
+      region: BodyTemplar

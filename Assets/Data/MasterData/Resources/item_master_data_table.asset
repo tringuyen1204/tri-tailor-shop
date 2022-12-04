@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d6605da01e346e39a214bd396becc5d, type: 3}
+  m_Name: item_master_data_table
+  m_EditorClassIdentifier: 
+  datas:
+  - id: helmet_samurai
+    type: 2
+    icon: {fileID: -1493486060, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 200
+  - id: helmet_templar
+    type: 2
+    icon: {fileID: -2015642688, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 5000
+  - id: helmet_full
+    type: 2
+    icon: {fileID: 718588936, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 1000
+  - id: helmet_fur
+    type: 2
+    icon: {fileID: 1090577225, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 500
+  - id: helmet_cap
+    type: 2
+    icon: {fileID: -421592729, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 300
+  - id: helmet_robin
+    type: 2
+    icon: {fileID: -162908371, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 2000
+  - id: helmet_steel
+    type: 2
+    icon: {fileID: 968242684, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 100
+  - id: cloth_templar_blue
+    type: 1
+    icon: {fileID: 1135426947, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 2000
+  - id: cloth_templar_red
+    type: 1
+    icon: {fileID: -13122766, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 2000
+  - id: cloth_fur
+    type: 1
+    icon: {fileID: -1192874921, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 500
+  - id: cloth_full_plate
+    type: 1
+    icon: {fileID: -974791331, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 1500
+  - id: cloth_robin
+    type: 1
+    icon: {fileID: -20736237, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 1
+    shopPrice: 800
+  - id: fur
+    type: 4
+    icon: {fileID: -27474661, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 5
+    shopPrice: 100
+  - id: silk
+    type: 4
+    icon: {fileID: -1435524948, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 5
+    shopPrice: 100
+  - id: cotton
+    type: 4
+    icon: {fileID: 1609177532, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 5
+    shopPrice: 50
+  - id: leather
+    type: 4
+    icon: {fileID: 1543221889, guid: 9c77213029db5b5409a63f943c6872a1, type: 3}
+    maxStack: 5
+    shopPrice: 50

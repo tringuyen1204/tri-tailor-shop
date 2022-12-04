@@ -1,0 +1,1266 @@
+fileFormatVersion: 2
+guid: 54e672653c831e54a97387c6a29ffe0a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI-Arrow-Break
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3d3d0c5bb6b8c4794c5d9930e95a5f
+      internalID: -214449756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-btn_icon_coin_dollar
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b912a7c5dbcb9f47b802baaa33aa318
+      internalID: 2104969518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-btn_icon_question
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446da41576f0eab4080f63e6578ee7b5
+      internalID: -398043010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Clanmessage
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 805
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 18, z: 18, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c49b8d9e65f404291d355b5ad9f020
+      internalID: 1312881321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Clanmessagetail
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 638
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787a4ae3c45a0049ab9d88fe654d2d0
+      internalID: -1187073881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ClanmessagetailNoOutline
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 638
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d4a32b3f53f264bbb592b93501d0bd
+      internalID: 1183494122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_blue
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 447
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 19, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f230133e4befb04e8e82d1649e8c400
+      internalID: -1944151155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_bluegray
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 389
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 17, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d38e736695ed41b106114f77263fd
+      internalID: 1028845208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_brown
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 331
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 18, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eef532a5290f914fbc99060ee0443e7
+      internalID: -1000409553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_dark
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 273
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 19, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d9ede7e81f024993ab6afb6ce5241
+      internalID: 1180126580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_disable
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 215
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 19, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1e56dd090a4134ab8e598a94885ec3
+      internalID: -2036504775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_gray
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 157
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 20, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ee41e25363c2479a177a452e0f13f
+      internalID: -412185115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_green
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 99
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 18, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3dfe489ca85f041a76875fde72e11b
+      internalID: 1917786577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_mint
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 41
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 18, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9ad3e70ed8bb74ea728e32a85a0f03
+      internalID: 1622067967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_purple
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 747
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 19, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e521da4e912905c4b90aa370dd94a162
+      internalID: -2015794059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_btn_red
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 689
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 18, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700d1284a52c0842bd616f9bfb4cef4
+      internalID: -1538541391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_popup
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 880
+        width: 98
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 47, y: 46, z: 46, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3d0d5ab7afb714594e47ba88ae47d6
+      internalID: 673363656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-FrameCommon
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 623
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08de97e8d408d4c89df7076b138bfc
+      internalID: -901568177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-FrameDiamond
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 367
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c37bf90c01fc4b881855a2156e1e1
+      internalID: -1370385411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-FrameEpic
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 301
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c7b87b6a731a4fb2082ea40342b09
+      internalID: -1601830432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-FrameGreat
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 235
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def60590766705840a9b1e1bc4ffa88b
+      internalID: -1849206414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-FrameLegend
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 169
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d1835aec4f5248963e70dcd5a38f2
+      internalID: -1932392396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-FrameRare
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 103
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65fd95501145b444a665cc102b6c446
+      internalID: -269190184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Gem Dust
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a99f4d2eea23844b1159f3a04e5b9a
+      internalID: -2141256463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Hexagon_Bronze
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 637
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358d6bc006b4f14d9731c1e85ca168d
+      internalID: 1159365101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Hexagon_Diamond
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 765
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77e8f7bb060de445a997f91f9ee9511
+      internalID: -1847864942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Hexagon_Golden
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 492
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4db2d53b205045805ab67db96b797
+      internalID: 1151916991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Hexagon_Silver
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 362
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb414a50d6eda794785ad90acdd67d26
+      internalID: 1236029013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Hole-9scale
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 37
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb8d421259cfb84cacdfd33d3c032c1
+      internalID: -363871939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-HoleFrame
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5219650343123a945af95616de7468e4
+      internalID: -489416951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-HoleFrame-Red
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 522
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b72c61bc69a64c884b4a996295e30
+      internalID: -1914626773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-home_menu_btn_noShadow
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 562
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 18, z: 14, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ef03e4f9ac4ac4fb6187a5083b2f5e
+      internalID: -626935491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-IcnCheck
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad4f7536ee52c44913c216eecd7faa
+      internalID: 1324158088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-IcnHammer
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234cb0b52a69cf742b9962a506114207
+      internalID: 496075026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Lock
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 172
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c9134312999bc4fb1ed65d8189d69e
+      internalID: -1742930980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-RoundRectangleHalf
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 562
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2f7f7b8d1ae644ba86d1ffd8d91ce
+      internalID: -75481799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_popup_title
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 622
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 53, z: 78, w: 68}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0de09f5d9a4b84eb56e900a4d91658
+      internalID: 1934045878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-gold
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 60
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59380c4f01d59754583b1a048040b4a6
+      internalID: 1005199200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopKeeperAvatar
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 767
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e6e23f2bcd9de4293047ebf2568f75
+      internalID: -1705729476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BtnClose
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 433
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc1b75b7078b1f4db97ffc47b82b25a
+      internalID: -795855403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_item_inventory
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 505
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e00c6951ab20429c6e1052616b37f
+      internalID: 1126311408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-btn_icon_custume_top
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c281aa727af5a4683e46d1d7fc78b0
+      internalID: 814936700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-btn_icon_helmet_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb62818d19085b468f702a2c33ac998
+      internalID: -1345932032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-IcnCotton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91b1dd50da71a43a03f3e7b92eb2a4
+      internalID: -319664118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-IcnFur
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2c2055aa61fe4ab543e0c45060d01
+      internalID: 1359165233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-IcnLeather
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6835a45892a98ca42a8d6c0f24bd67eb
+      internalID: -1801473017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-IcnSilk
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 302
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48958124b08f9e849b6e569c1bf65def
+      internalID: -1269130573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-9ScaleEmptyBar
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 52
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: -0.0104167, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c5d10ee9db5cc41a87012015a375ec
+      internalID: 231757963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-9ScaleGoldBar
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 588
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: -0.0104167, y: 0.489583}
+      border: {x: 12, y: 28, z: 12, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d292d2fe718ad47a4e4baf4d97cf16
+      internalID: 500321266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-9ScaleGoldSmall
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 854
+        width: 24
+        height: 24
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 6, y: 13, z: 6, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8bb9664c4ded2408c22550776e61dd
+      internalID: -569396720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-9ScaleUp
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0.489583}
+      border: {x: 12, y: 26, z: 12, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989d8cff18acd2a4a933f475bed04a8a
+      internalID: 1781657101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-common_item_book_open
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 42
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f715401353091d4ea5af73f719f4ef4
+      internalID: -321130673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1341c3ac4aa010b4280c81ed5dbfe0dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI-9ScaleGoldBar: 500321266
+      UI-ShopKeeperAvatar: -1705729476
+      UI-common_popup: 673363656
+      UI-btn_icon_coin_dollar: 2104969518
+      UI-9ScaleUp: 1781657101
+      UI-btn_icon_question: -398043010
+      UI-gold: 1005199200
+      UI-common_popup_title: 1934045878
+      UI-Clanmessage: 1312881321
+      UI-FrameCommon: -901568177
+      UI-btn_icon_custume_top: 814936700
+      UI-common_btn_red: -1538541391
+      UI-IcnCheck: 1324158088
+      UI-FrameLegend: -1932392396
+      UI-IcnLeather: -1801473017
+      UI-Hexagon_Diamond: -1847864942
+      UI-FrameGreat: -1849206414
+      UI-Gem Dust: -2141256463
+      UI-home_menu_btn_noShadow: -626935491
+      UI-IcnHammer: 496075026
+      UI-BtnClose: -795855403
+      UI-btn_icon_helmet_2: -1345932032
+      UI-Clanmessagetail: -1187073881
+      UI-RoundRectangleHalf: -75481799
+      UI-common_item_inventory: 1126311408
+      UI-FrameDiamond: -1370385411
+      UI-ClanmessagetailNoOutline: 1183494122
+      UI-HoleFrame-Red: -1914626773
+      UI-9ScaleEmptyBar: 231757963
+      UI-common_item_book_open: -321130673
+      UI-common_btn_mint: 1622067967
+      UI-FrameRare: -269190184
+      UI-Hexagon_Bronze: 1159365101
+      UI-Lock: -1742930980
+      UI-IcnSilk: -1269130573
+      UI-HoleFrame: -489416951
+      UI-IcnFur: 1359165233
+      UI-common_btn_purple: -2015794059
+      UI-Hexagon_Silver: 1236029013
+      UI-IcnCotton: -319664118
+      UI-common_btn_gray: -412185115
+      UI-common_btn_blue: -1944151155
+      UI-FrameEpic: -1601830432
+      UI-9ScaleGoldSmall: -569396720
+      UI-common_btn_dark: 1180126580
+      UI-Hole-9scale: -363871939
+      UI-common_btn_brown: -1000409553
+      UI-common_btn_disable: -2036504775
+      UI-common_btn_bluegray: 1028845208
+      UI-Hexagon_Golden: 1151916991
+      UI-Arrow-Break: -214449756
+      UI-common_btn_green: 1917786577
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f486a7bf46924acebc5cbb13f5c0d283, type: 3}
+  m_Name: default_shopkeeper_inventory
+  m_EditorClassIdentifier: 
+  gold: 5000
+  fur: 20
+  leather: 10
+  cotton: 0
+  silk: 0
+  maxSlot: 40
+  itemIds:
+  - helmet_templar
+  - helmet_cap
+  - helmet_samurai
+  - helmet_robin
+  - helmet_cap
+  - helmet_samurai
+  - helmet_templar
+  - helmet_steel
+  - cloth_fur
+  - cloth_templar_blue
+  - cloth_robin
+  - cloth_robin
+  - cloth_templar_red
+  - cloth_templar_red
+  - cloth_full_plate
+  - cloth_robin
+  - cloth_robin
+  - cloth_templar_red
+  - cloth_fur
+  - cloth_fur
+  - cotton
+  - cotton
+  - fur
+  - fur
+  - silk
+  - leather
+  - leather
